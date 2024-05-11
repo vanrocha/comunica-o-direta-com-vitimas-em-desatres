@@ -95,3 +95,14 @@ A comunicação direta com vítimas através de drones tem o potencial de revolu
 
            - API para análise de imagens aéreas capturadas pelo drone, utilizando IA para identificar vítimas, avaliar a gravidade da situação e gerar alertas para as equipes de resgate.
            - Plataforma online para compartilhamento de dados e colaboração entre diferentes organizações de resgate, utilizando drones como ferramenta de coleta e disseminação de informações.
+
+
+** Obs.**
+
+           - interface da API: Crie endpoints RESTful para receber comandos via HTTP usando frameworks como Flask ou Django.
+
+           - Autenticação e Segurança: Implemente autenticação para garantir que apenas usuários autorizados controlem o drone e acessem a API.
+
+           - Gerenciamento de Arquivos de Áudio: Crie uma forma de enviar e gerenciar novos arquivos de áudio para a API.
+
+           - Lógica de Voo Avançada: Implemente padrões de voo mais complexos, como busca em espiral, gravação de vídeo, etc.
