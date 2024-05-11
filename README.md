@@ -46,3 +46,52 @@ A comunicação direta com vítimas por meio de drones abre um leque de possibil
 
 
 A comunicação direta com vítimas através de drones tem o potencial de revolucionar as operações de resgate, proporcionando um canal de comunicação vital em situações de emergência, aumentando as chances de sobrevivência e facilitando o trabalho das equipes de resgate.
+
+
+## A comunicação direta com vítimas através de drones tem o potencial de revolucionar as operações de resgate, proporcionando um canal de comunicação vital em situações de emergência, aumentando as chances de sobrevivência e facilitando o trabalho das equipes de resgate.
+
+1. API para Controle de Drones com Sistema de Comunicação:
+
+**A - Funcionalidades:**
+
+- Controlar o drone remotamente, definindo rotas e pontos de parada para alcançar vítimas.
+- Transmitir mensagens de áudio pré-gravadas ou em tempo real através do sistema de alto-falantes do drone.
+- Receber e processar áudio do microfone do drone, permitindo comunicação bidirecional com a vítima.
+- Integrar com sistemas de tradução em tempo real para comunicação multilíngue.
+
+**B - Aplicações:**
+
+- Software de gerenciamento de missões de resgate, centralizando o controle de drones e a comunicação com as vítimas.
+- Aplicativo móvel para equipes de resgate em campo, oferecendo interface intuitiva para comunicação via drone.
+
+2. API para Gerenciamento de Kits de Comunicação Descartáveis:
+
+**A - Funcionalidades:**
+
+- Registrar e rastrear kits de comunicação descartáveis, incluindo ID, status (disponível, em uso, perdido) e localização.
+- Controlar o lançamento dos kits a partir do drone, definindo a área de lançamento e confirmando o sucesso da operação.
+- Receber e processar sinais de rádio dos kits, como mensagens de voz e alertas do botão de pânico.
+- Integrar com sistemas de mapeamento para visualizar a localização dos kits lançados.
+
+**B - Aplicações:**
+
+- Sistema de logística e distribuição de kits de comunicação, garantindo que as equipes de resgate tenham acesso rápido aos recursos.
+- Painel de controle para monitorar o status e a localização dos kits em tempo real durante uma operação de resgate.
+
+3. API para Criação e Transmissão de Mensagens Visuais:
+
+**A - Funcionalidades:**
+- Criar mensagens visuais personalizadas utilizando templates predefinidos ou elementos gráficos editáveis.
+- Converter texto em mensagens visuais, incluindo tradução para diferentes idiomas.
+- Controlar o sistema de projeção do drone, definindo a área de projeção e a duração da mensagem.
+- Registrar o histórico de mensagens transmitidas, incluindo data, hora, local e conteúdo.
+
+**B - Aplicações:**
+- Ferramenta de design de mensagens visuais para equipes de resgate, simplificando a criação e personalização de mensagens.
+- Aplicativo móvel para transmitir mensagens visuais em campo, oferecendo opções pré-definidas para situações comuns.
+
+
+**Outras Ideias:**
+
+           - API para análise de imagens aéreas capturadas pelo drone, utilizando IA para identificar vítimas, avaliar a gravidade da situação e gerar alertas para as equipes de resgate.
+           - Plataforma online para compartilhamento de dados e colaboração entre diferentes organizações de resgate, utilizando drones como ferramenta de coleta e disseminação de informações.
