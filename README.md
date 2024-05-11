@@ -50,7 +50,7 @@ A comunicação direta com vítimas através de drones tem o potencial de revolu
 
 ## A comunicação direta com vítimas através de drones tem o potencial de revolucionar as operações de resgate, proporcionando um canal de comunicação vital em situações de emergência, aumentando as chances de sobrevivência e facilitando o trabalho das equipes de resgate.
 
-1. API para Controle de Drones com Sistema de Comunicação:
+**1. API para Controle de Drones com Sistema de Comunicação:**
 
 **A - Funcionalidades:**
 
@@ -64,7 +64,7 @@ A comunicação direta com vítimas através de drones tem o potencial de revolu
 - Software de gerenciamento de missões de resgate, centralizando o controle de drones e a comunicação com as vítimas.
 - Aplicativo móvel para equipes de resgate em campo, oferecendo interface intuitiva para comunicação via drone.
 
-2. API para Gerenciamento de Kits de Comunicação Descartáveis:
+**2. API para Gerenciamento de Kits de Comunicação Descartáveis:**
 
 **A - Funcionalidades:**
 
@@ -78,7 +78,7 @@ A comunicação direta com vítimas através de drones tem o potencial de revolu
 - Sistema de logística e distribuição de kits de comunicação, garantindo que as equipes de resgate tenham acesso rápido aos recursos.
 - Painel de controle para monitorar o status e a localização dos kits em tempo real durante uma operação de resgate.
 
-3. API para Criação e Transmissão de Mensagens Visuais:
+**3. API para Criação e Transmissão de Mensagens Visuais:**
 
 **A - Funcionalidades:**
 - Criar mensagens visuais personalizadas utilizando templates predefinidos ou elementos gráficos editáveis.
