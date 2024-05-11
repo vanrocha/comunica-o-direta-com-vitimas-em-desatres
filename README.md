@@ -1,9 +1,9 @@
 ## Apesar dos grandes avanços na tecnologia de drones para resgates, ainda existem algumas áreas que precisam de aprimoramento para maximizar sua eficácia em situações de desastre:
 
 
-- Comunicação em áreas remotas: A comunicação com drones em áreas remotas com infraestrutura de comunicação danificada ainda é um desafio. O desenvolvimento de sistemas de comunicação independentes, como redes mesh, pode garantir a conectividade mesmo em áreas isoladas.
+- **Comunicação em áreas remotas:** A comunicação com drones em áreas remotas com infraestrutura de comunicação danificada ainda é um desafio. O desenvolvimento de sistemas de comunicação independentes, como redes mesh, pode garantir a conectividade mesmo em áreas isoladas.
 
-- Comunicação direta com vítimas: Integrar sistemas de comunicação nos drones que possibilitem a comunicação direta com as vítimas presas ou isoladas seria um avanço crucial.
+- **Comunicação direta com vítimas:** Integrar sistemas de comunicação nos drones que possibilitem a comunicação direta com as vítimas presas ou isoladas seria um avanço crucial.
 
 A comunicação direta com vítimas por meio de drones abre um leque de possibilidades para auxiliar em resgates, oferecendo suporte e informações vitais em momentos críticos. Existem algumas maneiras de desenvolver essa tecnologia:
 
